@@ -1,0 +1,8 @@
+C:\Users\asus\OneDrive - Universitas Muhammadiyah Yogyakarta\AlgoritmaStrukturData\Activity2\bin\Debug\Activity2.exe.config
+C:\Users\asus\OneDrive - Universitas Muhammadiyah Yogyakarta\AlgoritmaStrukturData\Activity2\bin\Debug\Activity2.exe
+C:\Users\asus\OneDrive - Universitas Muhammadiyah Yogyakarta\AlgoritmaStrukturData\Activity2\bin\Debug\Activity2.pdb
+C:\Users\asus\OneDrive - Universitas Muhammadiyah Yogyakarta\AlgoritmaStrukturData\Activity2\obj\Debug\Activity2.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive - Universitas Muhammadiyah Yogyakarta\AlgoritmaStrukturData\Activity2\obj\Debug\Activity2.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\OneDrive - Universitas Muhammadiyah Yogyakarta\AlgoritmaStrukturData\Activity2\obj\Debug\Activity2.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive - Universitas Muhammadiyah Yogyakarta\AlgoritmaStrukturData\Activity2\obj\Debug\Activity2.exe
+C:\Users\asus\OneDrive - Universitas Muhammadiyah Yogyakarta\AlgoritmaStrukturData\Activity2\obj\Debug\Activity2.pdb

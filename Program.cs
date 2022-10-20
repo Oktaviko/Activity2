@@ -75,7 +75,7 @@ namespace Activity2
                 cmp_count++;
 
                 //search for an element less than or equal to pivot
-                while ((arr[j] > pivot) && (j <= low))
+                while ((arr[j] > pivot) && (j >= low))
                 {
                     j--;
                     cmp_count++;
@@ -88,11 +88,19 @@ namespace Activity2
                     swap(i, j);
                     mov_count++;
                 }
-                //sort the list on the left of pivot using quick sort
-                q_sort(low, j - 1);
-                //sort the list on the right of pivot using quick sort
-                q_sort(j + 1, high);
             }
+            //j now contains the index of the last element in the sorted list
+            if (low < j)
+            {
+                //Move the pivot to its correct position in the list
+                swap(low, j);
+                mov_count++;
+            }
+            //sort the list on the left of pivot using quick sort
+            q_sort(low, j - 1);
+            //sort the list on the right of pivot using quick sort
+            q_sort(j + 1, high);
+                  
         }
         void display()
         {

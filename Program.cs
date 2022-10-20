@@ -114,7 +114,18 @@ namespace Activity2
         }
         static void Main(string[] args)
         {
-            
+            //Declaring the object of the class
+            Program myList = new Program();
+            //Acept array elements
+            myList.input();
+            //Calling the sorting function
+            //First call to quick sort Alogarithm
+            myList.q_sort(0, myList.getSize() - 1);
+            //display sorted array
+            myList.display();
+            //to exit from the console
+            Console.WriteLine("\n\n Press enter to exit. ");
+            Console.Read();
         }
     }
 }
